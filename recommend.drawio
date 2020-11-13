@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T04:05:04.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" version="13.9.7" etag="bLVnKlPJcZH41MOOsRor" type="github"><diagram id="cCCDkaBHg8uqUn4k1H9-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-13T04:41:59.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="IS2gJOOFNDHJX9iJu1x0" version="13.9.7" type="github">
+  <diagram id="cCCDkaBHg8uqUn4k1H9-" name="Page-1">
+    <mxGraphModel dx="1032" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WJQqNfOGAwRab13hlmCF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-10" value="string" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-14" value="string" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="480" as="sourcePoint" />
+            <mxPoint x="200" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="480" as="sourcePoint" />
+            <mxPoint x="850" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-19" value="&lt;font color=&quot;#ff0080&quot;&gt;curr&lt;br&gt;（当前时间）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-20" value="过去" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-21" value="未来" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-22" value="过去" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-23" value="未来" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-70" width="20" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-26" value="new_pool_count（新作品池的个数，一般24*3，即三天内的作品，由于作品有24小时的审核时间，实际上只推荐两天的作品）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="80" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-27" value="&lt;font color=&quot;#ff0080&quot;&gt;curr&lt;br&gt;（当前时间）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-28" value="&lt;font color=&quot;#6600cc&quot;&gt;用户读取的作品&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-29" value="new_pool_slow&lt;br&gt;&amp;nbsp;读取的时间要慢 1小时 - 1分钟&lt;br&gt;（定时器需在 1小时 - 1分钟 内更新完数据）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-30" value="new_pool_length（新作品池的长度（一个小时））" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="370" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="650" y="320" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-38" value="set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-40" value="使用 string 存储，存储前先转json再&lt;br&gt;压缩，每个池内部数据过多会分成更多的池，类似 B 树" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="730" y="240" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-42" value="当前新添加的作品放在这里，使用 set 集合存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-47" value="string" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-48" value="new_pool_delay，延迟意思小时过期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-50" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-51" value="new_pool_fast（新发作品的时间比定时器的时间还要快 24 个小时，审核人员有 24 小时的审核时间）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJQqNfOGAwRab13hlmCF-55" value="定时脚本读取 set 集合并回表查询作品权重，重新构建 string 池" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
