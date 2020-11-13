@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T04:41:59.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="IS2gJOOFNDHJX9iJu1x0" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T04:45:56.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="VyKZTAj5hjjDstvCHKkL" version="13.9.7" type="github">
   <diagram id="cCCDkaBHg8uqUn4k1H9-" name="Page-1">
     <mxGraphModel dx="1032" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
           <mxGeometry x="410" y="260" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJQqNfOGAwRab13hlmCF-40" value="使用 string 存储，存储前先转json再&lt;br&gt;压缩，每个池内部数据过多会分成更多的池，类似 B 树" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="230" width="110" height="30" as="geometry" />
+          <mxGeometry x="360" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJQqNfOGAwRab13hlmCF-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="730" y="240" width="20" height="40" as="geometry" />
@@ -124,7 +124,7 @@
         <mxCell id="WJQqNfOGAwRab13hlmCF-47" value="string" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WJQqNfOGAwRab13hlmCF-48" value="new_pool_delay，延迟意思小时过期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WJQqNfOGAwRab13hlmCF-48" value="new_pool_delay，延迟一小时过期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WJQqNfOGAwRab13hlmCF-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
